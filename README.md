@@ -19,28 +19,30 @@ The bot is not ready to understand everything, but it should be ready to underst
         Ciao, vuoi sapere gli orari di apertura oppure vuoi prenotare un tavolo?
         
         
-- sapere gli orari di apertura
+- vorrei sapere gli orari di apertura
        
-         Siamo aperti dal martedì alla domenica, per pranzo 11:00-15:00, per cena 18:00-23:00.
+         Siamo aperti dal martedì alla domenica, per pranzo dalle 11:00 alle 15:00, per cena dalle 18:00 alle 23:00.
 
 
 - vorrei effettuare una prenotazione
           
-          Per quale giorno volevi prenotare?
+          Per quando voleva prenotare?
          
- - domani
+ - per martedi
           
-          Per quante persone?
- 
- - 3
           A che ora?
  
- - 20
-          Desidera confermare la sua prenotazione per il giorno 2019-05-07 alle 20 per 3 persone?
+ - alle 9 di sera
+ 
+          Quante persone sarete?
+ 
+ - 4
+          Desidera confermare la sua prenotazione per il giorno 2019-06-25 alle 21 per 4 persone?
  
  - sì 
           La sua prenotazione è confermata 
         
-  -grazie      
-         Spero di esserle stato d'aiuto, a presto.       
+  -grazie, a presto
+  
+         Ciao, a presto.       
 ```
