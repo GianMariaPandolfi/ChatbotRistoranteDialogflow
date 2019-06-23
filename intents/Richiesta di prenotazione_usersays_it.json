@@ -1,0 +1,477 @@
+[
+  {
+    "id": "c123d587-ae3c-4a9c-ac6a-9ad0b8a0c983",
+    "data": [
+      {
+        "text": "volevo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tavolo per ",
+        "userDefined": false
+      },
+      {
+        "text": "venerdì",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "quattro",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c97ada13-1c72-4a90-8922-79ebcb4bf0ff",
+    "data": [
+      {
+        "text": "voglio prenotare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tavolo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d29dace8-9f5d-4ac6-a70f-5f0c2e47fbea",
+    "data": [
+      {
+        "text": "vorrei effettuare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " prenotazione per ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alle 20",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7818d7ea-4778-4980-83fd-e64e3d762708",
+    "data": [
+      {
+        "text": "volevo sapere se c`è ",
+        "userDefined": false
+      },
+      {
+        "text": "posto",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alle 21",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aae52c04-b012-4701-bad2-e1a9122e55c7",
+    "data": [
+      {
+        "text": "prenotare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe1f578c-6af2-46ce-829c-ac228fe0f896",
+    "data": [
+      {
+        "text": "vorrei prenotare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tavolo per ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alle 14",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " persone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf8d08e4-b6de-4bf4-a9cc-728b25d52690",
+    "data": [
+      {
+        "text": "volevo prenotare per ",
+        "userDefined": false
+      },
+      {
+        "text": "martedì",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alle 12",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26d6c2d2-cad1-4ec6-b32a-3c1f9e456285",
+    "data": [
+      {
+        "text": "sarei interessato a prenotare per ",
+        "userDefined": false
+      },
+      {
+        "text": "mercoledì",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a mezzogiorno",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99c3ae9a-30f2-40ea-9b56-714c40effcc7",
+    "data": [
+      {
+        "text": "stasera",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " è libero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tavolo per ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8694f6fe-cef5-4237-98d9-54adccacfbeb",
+    "data": [
+      {
+        "text": "prenotare per ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc19753d-9654-4792-a25b-116469507184",
+    "data": [
+      {
+        "text": "vorrei effettuare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " prenotazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a28a0aa4-42bf-4948-a1ed-5a8dcb088e09",
+    "data": [
+      {
+        "text": "c\u0027è ",
+        "userDefined": false
+      },
+      {
+        "text": "posto",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sabato?",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89f584f8-8bd1-4e95-861f-d53769620ece",
+    "data": [
+      {
+        "text": "vorrei prenotare per ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persone ",
+        "userDefined": false
+      },
+      {
+        "text": "martedi",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dca9bbb-a941-4892-be2e-4f4b0a81dfb1",
+    "data": [
+      {
+        "text": "prenotare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tavolo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38885796-f8e2-45a5-8fe8-b434fe84f499",
+    "data": [
+      {
+        "text": "vorrei prenotare per ",
+        "userDefined": false
+      },
+      {
+        "text": "martedi",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65d1948f-06f4-4fbf-afe2-856608250c62",
+    "data": [
+      {
+        "text": "vorrei prenotare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

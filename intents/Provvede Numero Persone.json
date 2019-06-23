@@ -1,0 +1,44 @@
+{
+  "id": "4bfdf601-2608-46e3-b80f-f64cbc993903",
+  "name": "Provvede Numero Persone",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_num_persone_mancante"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Richiedi_conferma",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ff1024a8-1875-4f62-8e14-f3438e130394",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "num_persone",
+          "value": "$num_persone",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "debug: num_persone dato"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

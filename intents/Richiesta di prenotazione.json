@@ -1,0 +1,58 @@
+{
+  "id": "1afd852c-8c8d-45f0-84a1-f3d68ffe0a2c",
+  "name": "Richiesta di prenotazione",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Richiedi_conferma",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "64690849-2263-407d-a5fb-2670ffa6688b",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "49940cb9-690b-4f4b-8042-f88ad2b33dbd",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "num_persone",
+          "value": "$num_persone",
+          "isList": false
+        },
+        {
+          "id": "36f91054-6846-4fb7-8962-59c01ade5012",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

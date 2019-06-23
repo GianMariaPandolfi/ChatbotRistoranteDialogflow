@@ -1,0 +1,34 @@
+{
+  "id": "64a8ae41-f3d3-4638-aae4-2d72748668e3",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Non penso di seguirti. Potresti ripetere?",
+            "Potresti dirlo ancora una volta?",
+            "Potresti essere più specifico?",
+            "Non ho capito bene. Potresti ripetere?",
+            "Non ti ho sentito bene. Puoi ripetere?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "b40512d5-1ed3-4bfd-b433-1deedbde8a93",
+  "name": "Provvede Orario",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_orario_mancante"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Richiedi_conferma",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "52b8bc64-6de6-4d74-9139-431d10be8881",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "d358ccba-c34c-4129-8c09-69c489aac108",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "num_persone",
+          "value": "$num_persone",
+          "isList": false
+        },
+        {
+          "id": "b54cfad4-67fe-406c-b20e-a7c82d739227",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "debug: orario dato"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

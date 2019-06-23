@@ -1,0 +1,60 @@
+{
+  "id": "49592d48-c032-4070-b4bf-cc7f6d65b3aa",
+  "name": "Provvede Data 2",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_data_mancante_2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Richiedi_conferma",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "576366aa-08ce-4e20-9a85-1a8acd98650d",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "f912c569-c4d0-4df8-8064-3bee5cb569f6",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "0be3ea46-d479-4887-aaad-47bc0b52f12e",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "num_persone",
+          "value": "$num_persone",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "debug: data inserita 2"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

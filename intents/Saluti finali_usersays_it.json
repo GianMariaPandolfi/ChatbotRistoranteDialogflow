@@ -1,0 +1,128 @@
+[
+  {
+    "id": "3ecd37ea-1aa9-4406-9ad7-27b7c8a1ac24",
+    "data": [
+      {
+        "text": "a presto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b01bfd65-6917-4333-b867-8e780d97c585",
+    "data": [
+      {
+        "text": "arrivederci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d221e57-3151-40c3-933e-a7263279e57e",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "martedi",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da750016-ebd1-4dbc-a016-a4e63d3358b8",
+    "data": [
+      {
+        "text": "ci vediamo ",
+        "userDefined": false
+      },
+      {
+        "text": "lunedi",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb2f782a-0f46-4cbb-ad4e-5bf032b0c592",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d7d22ce-bd67-4967-9905-f24d4c2aefaf",
+    "data": [
+      {
+        "text": "grazie, a presto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e17164e5-b688-4f59-9473-a2e54c52fd17",
+    "data": [
+      {
+        "text": "grazie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "155c8e68-a2ee-4d59-baa5-7fedb8d2de11",
+    "data": [
+      {
+        "text": "perfetto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9741b28a-f489-4a94-870d-0161b2ede9f3",
+    "data": [
+      {
+        "text": "saluti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

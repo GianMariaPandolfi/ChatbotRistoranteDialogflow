@@ -1,0 +1,54 @@
+[
+  {
+    "id": "71be245b-6919-452b-93e6-88813158be2e",
+    "data": [
+      {
+        "text": "alle 15",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "per 3 persone",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98344937-a161-4142-811a-ca9aa32fdde1",
+    "data": [
+      {
+        "text": "alle 12",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b54ab79-5343-4d99-8ab7-0fa42558d2c5",
+    "data": [
+      {
+        "text": "a mezzogiorno",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "afdcdcf9-7fca-4c5c-9961-2496337d496c",
+  "name": "Provvede Orario 2 - fallback",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_orario_mancante2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "handoff to human"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

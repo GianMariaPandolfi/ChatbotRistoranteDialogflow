@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4b81755e-9903-4721-99be-e53dea82f958",
+    "data": [
+      {
+        "text": "per ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a mezzogiorno",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "per 3 persone",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c330f839-fc68-4c70-a19c-0aa517772fa4",
+    "data": [
+      {
+        "text": "per ",
+        "userDefined": false
+      },
+      {
+        "text": "il 24 giugno",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79a191c3-8dd0-47e6-bbc5-bd24c8efa494",
+    "data": [
+      {
+        "text": "martedi",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f83aa47-d8c0-4179-9855-11600b99adef",
+    "data": [
+      {
+        "text": "domani",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

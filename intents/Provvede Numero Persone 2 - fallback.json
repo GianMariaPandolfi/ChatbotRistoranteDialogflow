@@ -1,0 +1,30 @@
+{
+  "id": "8385ccf8-bb8e-46a8-9162-7619d2bf758c",
+  "name": "Provvede Numero Persone 2 - fallback",
+  "auto": false,
+  "contexts": [
+    "richiesta_di_prenotazione_num_persone_mancante2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProvvedeNumeroPersone2.ProvvedeNumeroPersone2-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "handoff to human"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

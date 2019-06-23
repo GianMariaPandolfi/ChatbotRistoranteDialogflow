@@ -1,0 +1,52 @@
+{
+  "id": "4cfbb723-4076-4a0e-b207-8b102eab2d40",
+  "name": "Provvede Orario 2",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_orario_mancante2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Richiedi_conferma",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "134645ea-8d54-474e-8881-9c620fde5eed",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "5a73f4b7-c59e-4b0a-9c49-6f9eeb2562c2",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

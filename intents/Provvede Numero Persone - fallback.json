@@ -1,0 +1,30 @@
+{
+  "id": "fe413b82-833d-48a6-b9f8-dc22a307fbf4",
+  "name": "Provvede Numero Persone - fallback",
+  "auto": false,
+  "contexts": [
+    "richiesta_di_prenotazione_num_persone_mancante"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProvvedeNumeroPersone.ProvvedeNumeroPersone-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Non sono sicuro di aver capito, potrebbe ridirmi in quanti sarete?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": true,
+  "events": []
+}

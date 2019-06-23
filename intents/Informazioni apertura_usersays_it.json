@@ -1,0 +1,265 @@
+[
+  {
+    "id": "5dda9957-1a3b-4196-acc2-d941d0873c1e",
+    "data": [
+      {
+        "text": "Volevo sapere se ",
+        "userDefined": false
+      },
+      {
+        "text": "lunedi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " siete aperti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fbe65f4-625d-4aa3-9ebb-eaaea6c8d1a3",
+    "data": [
+      {
+        "text": "Siete aperti ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b58bee93-8f64-4b51-9430-0e9a7fe9f7c6",
+    "data": [
+      {
+        "text": "Aprite ",
+        "userDefined": false
+      },
+      {
+        "text": "giovedi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a39d505d-7a6b-4d51-879a-4d95a8813b84",
+    "data": [
+      {
+        "text": "A che ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " siete aperti ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1084ff9-994f-4f76-aa1b-2e07e3a2d158",
+    "data": [
+      {
+        "text": "Quando aprite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "858923ef-47c1-4c00-864a-86a5d1724c40",
+    "data": [
+      {
+        "text": "Quando siete aperti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ce2742a-0b42-4c0b-b6a3-3e78e9d568e2",
+    "data": [
+      {
+        "text": "A che ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chiudete ",
+        "userDefined": false
+      },
+      {
+        "text": "la sera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99038c6c-ffbd-4dab-93e2-a6e6b308871d",
+    "data": [
+      {
+        "text": "Siete aperti per pranzo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54754cc4-fc3f-40a7-b517-4141d03a6b95",
+    "data": [
+      {
+        "text": "siete aperti ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2570d75b-d1d4-4640-a9ac-5e1d3ad1c029",
+    "data": [
+      {
+        "text": "a che ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aprite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4192bf7e-cf91-4c94-97ac-0d95e7380d74",
+    "data": [
+      {
+        "text": "se vengo ",
+        "userDefined": false
+      },
+      {
+        "text": "alle 10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " siete ancora aperti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47ef4532-c7c1-4c19-8a5b-93b94b1679cc",
+    "data": [
+      {
+        "text": "martedì",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " siete aperti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4280b7ab-eff9-4ded-a6af-c0287a599a80",
+    "data": [
+      {
+        "text": "orari apertura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed1eeed2-9672-4773-ae2c-65dd1d5327e1",
+    "data": [
+      {
+        "text": "vorrei vedere gli orari di apertura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

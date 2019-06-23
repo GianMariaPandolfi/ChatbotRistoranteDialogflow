@@ -1,0 +1,27 @@
+{
+  "id": "1ca7105c-faef-4965-9aba-0dd37690fed2",
+  "name": "Informazioni apertura",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Siamo aperti dal martedì alla domenica, per pranzo dalle 11:00 alle 15:00, per cena \n dalle 18:00 alle 23:00."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

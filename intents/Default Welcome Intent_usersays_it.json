@@ -1,0 +1,139 @@
+[
+  {
+    "id": "4c550fe3-7251-4d06-9db9-39fd52750fd2",
+    "data": [
+      {
+        "text": "buona ",
+        "userDefined": false
+      },
+      {
+        "text": "sera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1e15539-ee18-4e56-9677-42eabf04f2c5",
+    "data": [
+      {
+        "text": "buonasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "645d4312-ddeb-41ee-ada4-6f65069c2cc8",
+    "data": [
+      {
+        "text": "bungiorno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa8a27b1-1606-452d-b1e9-c7b40482d60a",
+    "data": [
+      {
+        "text": "ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151c3a40-cd69-4c79-a0f6-a569c12ddbf0",
+    "data": [
+      {
+        "text": "ciao ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a1b17a2-44e1-4ca4-9ae9-5b97d08892cf",
+    "data": [
+      {
+        "text": "ciao bello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0894b9a2-6d33-4f83-9a69-cb61f637db4f",
+    "data": [
+      {
+        "text": "ciao bella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8598892c-75b3-415a-9396-463528dbdbfd",
+    "data": [
+      {
+        "text": "ciao caro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe1618e8-34a0-40a0-88d7-5b480cfcf18c",
+    "data": [
+      {
+        "text": "ciao cara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5be95c37-6023-47aa-b3a2-c04dff56ebfa",
+    "data": [
+      {
+        "text": "salve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d296f665-ba34-47f7-8e34-687e9b08a8d9",
+    "data": [
+      {
+        "text": "ehi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

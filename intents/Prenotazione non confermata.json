@@ -1,0 +1,29 @@
+{
+  "id": "96ca3e53-58f4-4ad5-9ccf-c13a804233ab",
+  "name": "Prenotazione non confermata",
+  "auto": true,
+  "contexts": [
+    "Richiedi_conferma"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "La sua prenotazione non è stata confermata"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

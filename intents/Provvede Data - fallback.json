@@ -1,0 +1,29 @@
+{
+  "id": "08d69be1-9e25-4725-9058-e9c84ea07719",
+  "name": "Provvede Data - fallback",
+  "auto": true,
+  "contexts": [
+    "Richiesta_di_prenotazione_data_mancante"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Non penso di aver capito, potrebbe ridirmi il giorno in cui voleva prenotare?, le ricordo che il lunedì siamo chiusi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": true,
+  "events": []
+}

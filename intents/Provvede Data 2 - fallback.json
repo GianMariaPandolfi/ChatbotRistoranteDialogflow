@@ -1,0 +1,30 @@
+{
+  "id": "6e1b97e9-af74-4810-bde9-af68398465e3",
+  "name": "Provvede Data 2 - fallback",
+  "auto": false,
+  "contexts": [
+    "richiesta_di_prenotazione_data_mancante_2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProvvedeData2.ProvvedeData2-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "handoff to human"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

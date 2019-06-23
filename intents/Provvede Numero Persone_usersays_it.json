@@ -1,0 +1,52 @@
+[
+  {
+    "id": "aabc67fc-b6fa-43ae-8990-6edafb450eaf",
+    "data": [
+      {
+        "text": "quattro",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19162f1b-c87d-4b34-8493-84a6584a4cb1",
+    "data": [
+      {
+        "text": "saremo ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0def07c6-1c85-47b9-95ca-3793fa8597c2",
+    "data": [
+      {
+        "text": "saremo ",
+        "userDefined": false
+      },
+      {
+        "text": "quattro",
+        "alias": "num_persone",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

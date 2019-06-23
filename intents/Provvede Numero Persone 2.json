@@ -1,0 +1,44 @@
+{
+  "id": "ddc56253-be90-44ee-bd57-bd648d299a4a",
+  "name": "Provvede Numero Persone 2",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_num_persone_mancante2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Richiedi_conferma",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "05fc8bb8-ce89-4562-aaf4-d1bf8afb0bf8",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "num_persone",
+          "value": "$num_persone",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

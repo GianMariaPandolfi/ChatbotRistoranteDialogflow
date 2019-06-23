@@ -1,0 +1,29 @@
+{
+  "id": "0320a474-29ba-444b-830a-42463dfc5a9e",
+  "name": "Provvede Orario - fallback",
+  "auto": true,
+  "contexts": [
+    "richiesta_di_prenotazione_orario_mancante"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Mi scusi ma non ho capito, potrebbe ridirmi l\u0027ora per cui intende prenotare. Le ricordo che siamo aperti dalle 11 alle 15 per pranzo e dalle 18 alle 23 per cena"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": true,
+  "events": []
+}

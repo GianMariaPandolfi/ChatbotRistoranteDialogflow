@@ -1,0 +1,29 @@
+{
+  "id": "a8a0a46f-bf70-45ff-af58-8be6d90b0014",
+  "name": "Prenotazione Confermata",
+  "auto": true,
+  "contexts": [
+    "Richiedi_conferma"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "debug: la sua prenotazione è confermata"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}
